@@ -1,9 +1,6 @@
-[![MasterHead](https://tenor.com/view/cat-cats-cat-meme-stare-look-gif-3976787806776047577)](https://jubayerprantor.bio.link/)
-
 <h1 align="center">Hiya 🐱, I'm Prantor</h1>
 <h3 align="center">Forcing my way towards the infinity. Love science & tech. Researcher, learner and a full time explorer. 🔬📝🤖</h3>
 
-(img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayerprantor&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerprantor" /> </p>
 
@@ -30,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayerprantor&show_icons=true&locale=en&layout=compact" alt="jubayerprantor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayerprantor&show_icons=true&locale=en" alt="jubayerprantor" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerprantor&" alt="jubayerprantor" /></p>
