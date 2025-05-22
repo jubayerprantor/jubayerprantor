@@ -6,7 +6,7 @@ Learner - Explorer
 
 Forcing my way towards the infinity. Love science & tech. Researcher, learner and a full time explorer. 🔬📝🤖
 
-* 🌍  I'm based in Bangladesh
+* 🌍  I'm based in USA
 * ✉️  You can contact me at [jubayerprantor@gmail.com](mailto:jubayerprantor@gmail.com)
 * 🚀  I'm currently working on [designresources](http://github.com/jubayerprantor/designresources)
 * 🧠  I'm learning Python
