@@ -8,7 +8,7 @@ Forcing my way towards the infinity. Love science & tech. Researcher, learner an
 
 * 🌍  I'm based in USA
 * ✉️  You can contact me at [jubayerprantor@gmail.com](mailto:jubayerprantor@gmail.com)
-* 🚀  I'm currently working on [designresources](http://github.com/jubayerprantor/designresources)
+* 🚀  I'm currently working on [designresources](https://jubayerprantor.github.io/designresources/)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on simple projects
 * ⚡  Fun fact "Kangaroos can't walk backward."🦘
