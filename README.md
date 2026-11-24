@@ -6,15 +6,11 @@
 
 👯 **Looking to collaborate on:** Anything that matters
 
-📫 **Email:** hello@printjubayer.tech
+📫 **Email:** hello@printjubayer.com
 
-👨‍💻 **Portfolio:** https://printjubayer.tech/
+👨‍💻 **Portfolio:** https://printjubayer.com/
 
-📝 **Blog:** https://printjubayer.tech/blog
-
-📄 **Resume:** https://printjubayer.tech/resume
-
-⚡ **Fun fact:** *⚡ I enjoy writing poetry and building things that solve real problems.* 
+⚡ **Fun fact:** *⚡ Nothing * 
 
 ---
 
